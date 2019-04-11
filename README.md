@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages mrgoodway
 
 You can use the [editor on GitHub](https://github.com/devgoodway/CI_boostrap/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
